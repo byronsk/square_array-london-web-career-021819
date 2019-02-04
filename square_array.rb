@@ -3,3 +3,6 @@ def square_array(array)
   array.each { |i| n_array << i ** 2 }
   n_array
  end
+ 
+ 
+ 
