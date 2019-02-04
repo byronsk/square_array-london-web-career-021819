@@ -3,3 +3,4 @@ def square_array(array)
   array.each do { |k| arr << k ** 2 }
   arr
 end
+end
