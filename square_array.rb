@@ -1,3 +1,3 @@
 def square_array(array)
-  array.map { 
+  array.map { |num| 
 end
